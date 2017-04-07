@@ -1,0 +1,10 @@
+logic\TreeReader.class
+model\VDir.class
+model\Constants.class
+model\VFile.class
+model\DiffFile.class
+model\VTree.class
+model\AbstractVFile.class
+model\TreeDiff.class
+logic\TreeCompare.class
+main\Main.class
